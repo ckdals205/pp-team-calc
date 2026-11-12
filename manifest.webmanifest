@@ -1,0 +1,12 @@
+{
+  "id": "./",
+  "name": "PP Team Calc — 포켓몬 GO 팀파워계산기",
+  "short_name": "PP Team Calc",
+  "description": "포켓몬 GO 레이드 팀파워·DPS 독립 계산기",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1320",
+  "theme_color": "#0b1320",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
